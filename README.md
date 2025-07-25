@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chathushki Asmada Upulini Kumarage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-![Uploading image_processing20210722-25951-90hfg0.gif…]()
+
 
 
 <h3 align="left">Connect with me:</h3>
