@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chathushki Asmada Upulini Kumarage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-![image_processing20210722-25951-90hfg0](https://github.com/user-attachments/assets/538dc71f-f29c-470d-850f-f38a35dbfdca)
 
+
+![git](https://github.com/user-attachments/assets/18a051bc-1eb8-4ca4-a16c-06c59e191f66)
 
 
 <h3 align="left">Connect with me:</h3>
