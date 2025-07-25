@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chathushki Asmada Upulini Kumarage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3135393964373130373031393732352e356639643363376261653633362e676966](https://github.com/user-attachments/assets/aad1c6a0-01a1-4827-a3e3-dc81b3160e00)
 
 
-![git](https://github.com/user-attachments/assets/18a051bc-1eb8-4ca4-a16c-06c59e191f66)
+
 
 
 <h3 align="left">Connect with me:</h3>
